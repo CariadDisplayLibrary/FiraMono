@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: FiraMono.h
-Description: FiraMono font for DisplayCore
+Description: FiraMono
