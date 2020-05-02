@@ -1,7 +1,7 @@
 #ifndef _FIRAMONO_H
 #define _FIRAMONO_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t FiraMono10[];
